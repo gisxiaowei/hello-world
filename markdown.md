@@ -1,3 +1,3 @@
-# This is a <h1> tag.
-## This is a <h2> tag.
-###### This is a <h6> tag.
+# This is an &lt;h1&gt; tag.
+## This is an &lt;h2&gt; tag.
+###### This is an &lt;h6&gt; tag.
